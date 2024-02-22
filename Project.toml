@@ -1,0 +1,9 @@
+name = "ITensorDMRG"
+uuid = "6de3d621-541a-41b9-aac0-05751f4e2098"
+authors = ["Aitor <acalvo049@ehu.eus>"]
+version = "0.1.0"
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+ITensors = "9136182c-28ba-11e9-034c-db9fb085ebd5"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
